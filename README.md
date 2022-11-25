@@ -22,7 +22,7 @@ Radial Inventory System V4
 Please see Licenses folder
 
 ## Want to add your package?
-Please create Pull request
+Please contact me [Twitter](https://twitter.com/surumeika_vr)
 
 ## License
 This repository is under [MIT license](https://en.wikipedia.org/wiki/MIT_License)
