@@ -1,14 +1,14 @@
 # Surume-Repo
 Unofficial VCC Repository
 
-## how to add this repository
+## How to add this repository
 First, Prepare VPM CLI Tool -> [Document](https://vcc.docs.vrchat.com/vpm/cli/)  
 Type this command in Terminal(ex. Command prompt)
 ```
 vpm add repo http://white-takeo-4592.lovepop.jp/Public/repo
 ```
 
-## how to remove repository
+## How to remove repository
 ```
 vpm remove repos
 ```
