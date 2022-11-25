@@ -1,0 +1,86 @@
+{
+    "name": "[Unofficial]Surume-repo",
+    "author": "devlop@aol.com",
+    "url": "http://white-takeo-4592.lovepop.jp/Public/repo",
+    "packages": {
+        "com.github.whiteflare.shader.core": {
+            "versions": {
+                "2022.9.23": {
+                    "name": "com.github.whiteflare.shader.core",
+                    "displayName": "Unlit WF ShaderSuite Core",
+                    "version": "2022.9.23",
+                    "unity": "2019.4",
+                    "description": "https://github.com/whiteflare/Unlit_WF_ShaderSuite",
+                    "dependencies": {},
+                    "author": {
+                        "name": "whiteflare",
+                        "email": "",
+                        "url": "https://github.com/whiteflare"
+                    },
+                    "hideInEditor": true,
+                    "url": "http://white-takeo-4592.lovepop.jp/Public/download?id=com.github.whiteflare.shader.core&v=2022.9.23",
+                    "repo": "http://white-takeo-4592.lovepop.jp/Public/repo"
+                },
+                "2022.10.22": {
+                    "name": "com.github.whiteflare.shader.core",
+                    "displayName": "Unlit WF ShaderSuite Core",
+                    "version": "2022.10.22",
+                    "unity": "2019.4",
+                    "description": "https://github.com/whiteflare/Unlit_WF_ShaderSuite",
+                    "dependencies": {},
+                    "author": {
+                        "name": "whiteflare",
+                        "email": "",
+                        "url": "https://github.com/whiteflare"
+                    },
+                    "hideInEditor": true,
+                    "url": "http://white-takeo-4592.lovepop.jp/Public/download?id=com.github.whiteflare.shader.core&v=2022.10.22",
+                    "repo": "http://white-takeo-4592.lovepop.jp/Public/repo"
+                }
+            }
+        },
+        "com.github.lilxyzw": {
+            "versions": {
+                "1.3.6": {
+                    "name": "com.github.lilxyzw",
+                    "displayName": "lilToon",
+                    "version": "1.3.6",
+                    "unity": "2019.4",
+                    "description": "https://github.com/lilxyzw/lilToon",
+                    "dependencies": {},
+                    "author": {
+                        "name": "lilxyzw",
+                        "email": "",
+                        "url": "https://github.com/lilxyzw"
+                    },
+                    "hideInEditor": true,
+                    "url": "http://white-takeo-4592.lovepop.jp/Public/download?id=com.github.lilxyzw&v=1.3.6",
+                    "repo": "http://white-takeo-4592.lovepop.jp/Public/repo"
+                }
+            }
+        },
+        "pm.booth.yagihata.risv4": {
+            "versions": {
+                "4.3.0": {
+                    "name": "pm.booth.yagihata.risv4",
+                    "displayName": "Radial Inventory System V4 (Customized)",
+                    "version": "4.3.0",
+                    "unity": "2019.4",
+                    "description": "https://yagihata.booth.pm/items/2278448",
+                    "dependencies": {},
+                    "vpmDependencies": {
+                        "com.vrchat.avatars": "3.1.x"
+                    },
+                    "author": {
+                        "name": "Yagihata",
+                        "email": "",
+                        "url": "https://yagihata.booth.pm/"
+                    },
+                    "hideInEditor": true,
+                    "url": "http://white-takeo-4592.lovepop.jp/Public/download?id=pm.booth.yagihata.risv4&v=4.3.0",
+                    "repo": "http://white-takeo-4592.lovepop.jp/Public/repo"
+                }
+            }
+        }
+    }
+}
