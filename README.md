@@ -2,7 +2,7 @@
 Unofficial VCC Repository
 
 ## how to add this repository
-First, Prepare VPM CLI Tool -> [Document](https://vcc.docs.vrchat.com/vpm/cli/)
+First, Prepare VPM CLI Tool -> [Document](https://vcc.docs.vrchat.com/vpm/cli/)  
 Type this command in Terminal(ex. Command prompt)
 ```
 vpm add repo http://white-takeo-4592.lovepop.jp/Public/repo
@@ -14,9 +14,9 @@ vpm remove repos
 ```
 
 ## Packages
-lilToon
-Unlit_WF_ShaderSuite
-Radial Inventory System V4
+lilToon  
+Unlit_WF_ShaderSuite  
+Radial Inventory System V4  
 
 ## Package Licenses
 Please see Licenses folder
