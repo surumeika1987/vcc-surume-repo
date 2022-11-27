@@ -17,6 +17,7 @@ vpm remove repos
 lilToon  
 Unlit_WF_ShaderSuite  
 Radial Inventory System V4  
+Sunao Shader  
 
 ## Package Licenses
 Please see Licenses folder

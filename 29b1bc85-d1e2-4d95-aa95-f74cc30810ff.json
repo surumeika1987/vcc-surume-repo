@@ -1,6 +1,6 @@
 {
     "name": "[Unofficial]Surume-repo",
-    "author": "devlop@aol.com",
+    "author": "@surumeika1987",
     "url": "http://white-takeo-4592.lovepop.jp/Public/repo",
     "packages": {
         "com.github.whiteflare.shader.core": {
@@ -78,6 +78,26 @@
                     },
                     "hideInEditor": true,
                     "url": "http://white-takeo-4592.lovepop.jp/Public/download?id=pm.booth.yagihata.risv4&v=4.3.0",
+                    "repo": "http://white-takeo-4592.lovepop.jp/Public/repo"
+                }
+            }
+        },
+        "ooo.sunao.shader": {
+            "versions": {
+                "1.6.2": {
+                    "name": "ooo.sunao.shader",
+                    "displayName": "Sunao Shader",
+                    "version": "1.6.2",
+                    "unity": "2019.4",
+                    "description": "https://booth.pm/ja/items/1723985",
+                    "dependencies": {},
+                    "author": {
+                        "name": "agenasu",
+                        "email": "",
+                        "url": "https://agenasu.booth.pm/"
+                    },
+                    "hideInEditor": true,
+                    "url": "http://white-takeo-4592.lovepop.jp/Public/download?id=ooo.sunao.shader&v=1.6.2",
                     "repo": "http://white-takeo-4592.lovepop.jp/Public/repo"
                 }
             }
