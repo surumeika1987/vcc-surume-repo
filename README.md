@@ -18,6 +18,7 @@ lilToon
 Unlit_WF_ShaderSuite  
 Radial Inventory System V4  
 Sunao Shader  
+Modular Avater[github](https://github.com/bdunderscore/modular-avatar)  
 
 ## Package Licenses
 Please see Licenses folder
