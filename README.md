@@ -19,6 +19,7 @@ Unlit_WF_ShaderSuite
 Radial Inventory System V4  
 Sunao Shader  
 Modular Avater [github](https://github.com/bdunderscore/modular-avatar)  
+ PoiyomiToonShader [github](https://github.com/poiyomi/PoiyomiToonShader)  
 
 ## Package Licenses
 Please see Licenses folder
