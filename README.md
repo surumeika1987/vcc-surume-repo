@@ -5,7 +5,7 @@ Unofficial VCC Repository
 First, Prepare VPM CLI Tool -> [Document](https://vcc.docs.vrchat.com/vpm/cli/)  
 Type this command in Terminal(ex. Command prompt)
 ```
-vpm add repo http://white-takeo-4592.lovepop.jp/Public/repo
+vpm add repo http://surumeika1987.xyz/repo
 ```
 
 ## How to remove repository
