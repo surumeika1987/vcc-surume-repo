@@ -1,7 +1,7 @@
 {
     "name": "[Unofficial]Surume-repo",
     "author": "@surumeika1987",
-    "url": "http://white-takeo-4592.lovepop.jp/Public/repo",
+    "url": "http://surumeika1987.xyz/repo",
     "packages": {
         "com.github.whiteflare.shader.core": {
             "versions": {
@@ -18,8 +18,8 @@
                         "url": "https://github.com/whiteflare"
                     },
                     "hideInEditor": true,
-                    "url": "http://white-takeo-4592.lovepop.jp/Public/download?id=com.github.whiteflare.shader.core&v=2022.9.23",
-                    "repo": "http://white-takeo-4592.lovepop.jp/Public/repo"
+                    "url": "http://surumeika1987.xyz/download?id=com.github.whiteflare.shader.core&v=2022.9.23",
+                    "repo": "http://surumeika1987.xyz/repo"
                 },
                 "2022.10.22": {
                     "name": "com.github.whiteflare.shader.core",
@@ -34,8 +34,8 @@
                         "url": "https://github.com/whiteflare"
                     },
                     "hideInEditor": true,
-                    "url": "http://white-takeo-4592.lovepop.jp/Public/download?id=com.github.whiteflare.shader.core&v=2022.10.22",
-                    "repo": "http://white-takeo-4592.lovepop.jp/Public/repo"
+                    "url": "http://surumeika1987.xyz/download?id=com.github.whiteflare.shader.core&v=2022.10.22",
+                    "repo": "http://surumeika1987.xyz/repo"
                 }
             }
         },
@@ -61,7 +61,7 @@
                         "url": "https://github.com/lilxyzw"
                     },
                     "url" : "https://github.com/lilxyzw/lilToon/releases/download/1.3.7/jp.lilxyzw.liltoon-1.3.7.zip",
-                    "repo": "http://white-takeo-4592.lovepop.jp/Public/repo"
+                    "repo": "http://surumeika1987.xyz/repo"
                 }
             }
         },
@@ -83,8 +83,8 @@
                         "url": "https://yagihata.booth.pm/"
                     },
                     "hideInEditor": true,
-                    "url": "http://white-takeo-4592.lovepop.jp/Public/download?id=yagihata.radialinventorysystem.v4&v=4.4.1",
-                    "repo": "http://white-takeo-4592.lovepop.jp/Public/repo"
+                    "url": "http://surumeika1987.xyz/download?id=yagihata.radialinventorysystem.v4&v=4.4.1",
+                    "repo": "http://surumeika1987.xyz/repo"
                 }
             }
         },
@@ -103,8 +103,8 @@
                         "url": "https://agenasu.booth.pm/"
                     },
                     "hideInEditor": true,
-                    "url": "http://white-takeo-4592.lovepop.jp/Public/download?id=ooo.sunao.shader&v=1.6.2",
-                    "repo": "http://white-takeo-4592.lovepop.jp/Public/repo"
+                    "url": "http://surumeika1987.xyz/download?id=ooo.sunao.shader&v=1.6.2",
+                    "repo": "http://surumeika1987.xyz/repo"
                 }
             }
         },
@@ -129,7 +129,7 @@
                         "url": "https://github.com/bdunderscore/modular-avatar"
                     },
                     "url": "https://github.com/bdunderscore/modular-avatar/releases/download/1.0.0/nadena.dev.modular-avatar-1.0.0.zip",
-                    "repo": "http://white-takeo-4592.lovepop.jp/Public/repo"
+                    "repo": "http://surumeika1987.xyz/repo"
                 },
                 "1.0.1": {
                     "name": "nadena.dev.modular-avatar",
@@ -150,7 +150,7 @@
                         "url": "https://github.com/bdunderscore/modular-avatar"
                     },
                     "url": "https://github.com/bdunderscore/modular-avatar/releases/download/1.0.1/nadena.dev.modular-avatar-1.0.1.zip",
-                    "repo": "http://white-takeo-4592.lovepop.jp/Public/repo"
+                    "repo": "http://surumeika1987.xyz/repo"
                 },
                 "1.1.0": {
                     "name": "nadena.dev.modular-avatar",
@@ -171,7 +171,7 @@
                         "url": "https://github.com/bdunderscore/modular-avatar"
                     },
                     "url": "https://github.com/bdunderscore/modular-avatar/releases/download/1.1.0/nadena.dev.modular-avatar-1.1.0.zip",
-                    "repo": "http://white-takeo-4592.lovepop.jp/Public/repo"
+                    "repo": "http://surumeika1987.xyz/repo"
                 },
                 "1.1.1": {
                     "name": "nadena.dev.modular-avatar",
@@ -192,7 +192,7 @@
                         "url": "https://github.com/bdunderscore/modular-avatar"
                     },
                     "url": "https://github.com/bdunderscore/modular-avatar/releases/download/1.1.1/nadena.dev.modular-avatar-1.1.1.zip",
-                    "repo": "http://white-takeo-4592.lovepop.jp/Public/repo"
+                    "repo": "http://surumeika1987.xyz/repo"
                 },
                 "1.1.2": {
                     "name": "nadena.dev.modular-avatar",
@@ -212,7 +212,7 @@
                         "url": "https://github.com/bdunderscore/modular-avatar"
                     },
                     "url": "https://github.com/bdunderscore/modular-avatar/releases/download/1.1.2/nadena.dev.modular-avatar-1.1.2.zip",
-                    "repo": "http://white-takeo-4592.lovepop.jp/Public/repo"
+                    "repo": "http://surumeika1987.xyz/repo"
                 },
                 "1.2.0": {
                     "name": "nadena.dev.modular-avatar",
@@ -232,7 +232,7 @@
                         "url": "https://github.com/bdunderscore/modular-avatar"
                     },
                     "url": "https://github.com/bdunderscore/modular-avatar/releases/download/1.2.0/nadena.dev.modular-avatar-1.2.0.zip",
-                    "repo": "http://white-takeo-4592.lovepop.jp/Public/repo"
+                    "repo": "http://surumeika1987.xyz/repo"
                 },
                 "1.2.1": {
                     "name": "nadena.dev.modular-avatar",
@@ -252,7 +252,7 @@
                         "url": "https://github.com/bdunderscore/modular-avatar"
                     },
                     "url": "https://github.com/bdunderscore/modular-avatar/releases/download/1.2.1/nadena.dev.modular-avatar-1.2.1.zip",
-                    "repo": "http://white-takeo-4592.lovepop.jp/Public/repo"
+                    "repo": "http://surumeika1987.xyz/repo"
                 },
                 "1.3.0": {
                     "name": "nadena.dev.modular-avatar",
@@ -272,7 +272,7 @@
                         "url": "https://github.com/bdunderscore/modular-avatar"
                     },
                     "url": "https://github.com/bdunderscore/modular-avatar/releases/download/1.3.0/nadena.dev.modular-avatar-1.3.0.zip",
-                    "repo": "http://white-takeo-4592.lovepop.jp/Public/repo"
+                    "repo": "http://surumeika1987.xyz/repo"
                 },
                 "1.4.0": {
                     "name": "nadena.dev.modular-avatar",
@@ -292,7 +292,7 @@
                         "url": "https://github.com/bdunderscore/modular-avatar"
                     },
                     "url": "https://github.com/bdunderscore/modular-avatar/releases/download/1.4.0/nadena.dev.modular-avatar-1.4.0.zip",
-                    "repo": "http://white-takeo-4592.lovepop.jp/Public/repo"
+                    "repo": "http://surumeika1987.xyz/repo"
                 },
                 "1.4.1": {
                     "name": "nadena.dev.modular-avatar",
@@ -312,7 +312,7 @@
                         "url": "https://github.com/bdunderscore/modular-avatar"
                     },
                     "url": "https://github.com/bdunderscore/modular-avatar/releases/download/1.4.1/nadena.dev.modular-avatar-1.4.1.zip",
-                    "repo": "http://white-takeo-4592.lovepop.jp/Public/repo"
+                    "repo": "http://surumeika1987.xyz/repo"
                 },
                 "1.4.2": {
                     "name": "nadena.dev.modular-avatar",
@@ -332,7 +332,7 @@
                         "url": "https://github.com/bdunderscore/modular-avatar"
                     },
                     "url": "https://github.com/bdunderscore/modular-avatar/releases/download/1.4.2/nadena.dev.modular-avatar-1.4.2.zip",
-                    "repo": "http://white-takeo-4592.lovepop.jp/Public/repo"
+                    "repo": "http://surumeika1987.xyz/repo"
                 },
                 "1.4.3": {
                     "name": "nadena.dev.modular-avatar",
@@ -352,7 +352,7 @@
                         "url": "https://github.com/bdunderscore/modular-avatar"
                     },
                     "url": "https://github.com/bdunderscore/modular-avatar/releases/download/1.4.3/nadena.dev.modular-avatar-1.4.3.zip",
-                    "repo": "http://white-takeo-4592.lovepop.jp/Public/repo"
+                    "repo": "http://surumeika1987.xyz/repo"
                 },
                 "1.4.4": {
                     "name": "nadena.dev.modular-avatar",
@@ -372,7 +372,7 @@
                         "url": "https://github.com/bdunderscore/modular-avatar"
                     },
                     "url": "https://github.com/bdunderscore/modular-avatar/releases/download/1.4.4/nadena.dev.modular-avatar-1.4.4.zip",
-                    "repo": "http://white-takeo-4592.lovepop.jp/Public/repo"
+                    "repo": "http://surumeika1987.xyz/repo"
                 },
                 "1.4.5": {
                     "name": "nadena.dev.modular-avatar",
@@ -392,7 +392,7 @@
                         "url": "https://github.com/bdunderscore/modular-avatar"
                     },
                     "url": "https://github.com/bdunderscore/modular-avatar/releases/download/1.4.5/nadena.dev.modular-avatar-1.4.5.zip",
-                    "repo": "http://white-takeo-4592.lovepop.jp/Public/repo"
+                    "repo": "http://surumeika1987.xyz/repo"
                 }
             }
         },
@@ -409,8 +409,8 @@
                         "email": "",
                         "url": "https://poiyomi.com/"
                     },
-                    "url": "http://white-takeo-4592.lovepop.jp/Public/download?id=com.poiyomi.toon&v=8.1.161",
-                    "repo": "http://white-takeo-4592.lovepop.jp/Public/repo"
+                    "url": "http://surumeika1987.xyz/download?id=com.poiyomi.toon&v=8.1.161",
+                    "repo": "http://surumeika1987.xyz/repo"
                 }
             }
         }
