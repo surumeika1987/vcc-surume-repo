@@ -24,7 +24,7 @@ vpm remove repos
 | Modular Avater | 1.4.5 | [github](https://github.com/bdunderscore/modular-avatar) | YES |
 | PoiyomiToonShader | 8.1.161 | [github](https://github.com/poiyomi/PoiyomiToonShader) | YES |
 
-# What is "Original vpm package"?
+## What is "Original vpm package"?
 VPM packages released by the distributor  
 If No, the repository manager converted the UPM package to a VPM package
 
