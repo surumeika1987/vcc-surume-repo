@@ -67,24 +67,33 @@
         },
         "yagihata.radialinventorysystem.v4": {
             "versions": {
-                "4.4.1": {
-                    "name": "yagihata.radialinventorysystem.v4",
+                "4.5.1": {
+                    "author": {
+                        "name": "Yagihata"
+                    },
+                    "changelogUrl": "https://negura-karasu.net/archives/1691",
+                    "description": "This is an add-on for VRC-Avatars that assists in adding a menu to show/hide props.",
                     "displayName": "Radial Inventory System V4",
-                    "version": "4.4.1",
+                    "documentationUrl": "https://negura-karasu.net/archives/1691",
+                    "gitDependencies": {},
+                    "keywords": [
+                        "Inventory",
+                        "Avatar"
+                    ],
+                    "legacyFiles": {},
+                    "legacyFolders": {
+                        "Assets\\YagihataItems\\RadialInventorySystemV4": "72cbb7caaea430847a3c21330351e444"
+                    },
+                    "license": "MIT",
+                    "licensesUrl": "https://github.com/Yagihata/RadialInventorySystem/blob/main/LICENSE",
+                    "name": "yagihata.radialinventorysystem.v4",
+                    "type": "tool",
                     "unity": "2019.4",
-                    "description": "https://yagihata.booth.pm/items/2278448",
-                    "dependencies": {},
+                    "url": "https://drive.google.com/uc?id=1R6QxJ90_Kw-OHivhN6FOLsz7jTIAqXqe",
+                    "version": "4.5.1",
                     "vpmDependencies": {
                         "com.vrchat.avatars": "3.1.10"
-                    },
-                    "author": {
-                        "name": "Yagihata",
-                        "email": "",
-                        "url": "https://yagihata.booth.pm/"
-                    },
-                    "hideInEditor": true,
-                    "url": "http://surumeika1987.xyz/download?id=yagihata.radialinventorysystem.v4&v=4.4.1",
-                    "repo": "http://surumeika1987.xyz/repo"
+                    }
                 }
             }
         },
