@@ -22,7 +22,7 @@ vpm remove repos
 | Radial Inventory System V4 | 4.5.1 | [booth](https://booth.pm/ja/items/2278448) | YES |
 | Sunao Shader | 1.6.2 | [booth](https://booth.pm/ja/items/1723985) | NO |
 | Modular Avater | 1.4.5 | [github](https://github.com/bdunderscore/modular-avatar) | YES |
-| PoiyomiToonShader | 8.1.161 | [github](https://github.com/poiyomi/PoiyomiToonShader) | YES |
+| PoiyomiToonShader | 8.1.161 | [github](https://github.com/poiyomi/PoiyomiToonShader) | NO |
 
 ## What is "Original vpm package"?
 VPM packages released by the distributor  
