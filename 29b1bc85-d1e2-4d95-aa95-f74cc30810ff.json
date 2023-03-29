@@ -420,6 +420,20 @@
                     },
                     "url": "http://surumeika1987.xyz/download?id=com.poiyomi.toon&v=8.1.161",
                     "repo": "http://surumeika1987.xyz/repo"
+                },
+                "8.1.162": {
+                    "name": "com.poiyomi.toon",
+                    "displayName": "PoiyomiToonShader",
+                    "version": "8.1.162",
+                    "unity": "2019.4",
+                    "description": "https://github.com/poiyomi/PoiyomiToonShader",
+                    "author": {
+                        "name": "King Arthur",
+                        "email": "",
+                        "url": "https://poiyomi.com/"
+                    },
+                    "url": "http://surumeika1987.xyz/download?id=com.poiyomi.toon&v=8.1.162",
+                    "repo": "http://surumeika1987.xyz/repo"
                 }
             }
         }
