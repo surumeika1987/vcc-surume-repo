@@ -2,7 +2,7 @@
 Unofficial VCC Repository
 
 ## This is Unofficail repository.
-You can also check other repositorys. [List](/RepositoryList.md)
+You can also check other [repositorys](/RepositoryList.md).
 
 ## How to add this repository
 Update Creator Companion to the latest version.  
