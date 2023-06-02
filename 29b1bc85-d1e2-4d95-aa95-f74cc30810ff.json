@@ -1,44 +1,8 @@
 {
     "name": "[Unofficial]Surume-repo",
-    "author": "@surumeika1987",
+    "author": "@surumeika_vr",
     "url": "http://surumeika1987.xyz/repo",
     "packages": {
-        "com.github.whiteflare.shader.core": {
-            "versions": {
-                "2022.9.23": {
-                    "name": "com.github.whiteflare.shader.core",
-                    "displayName": "Unlit WF ShaderSuite Core",
-                    "version": "2022.9.23",
-                    "unity": "2019.4",
-                    "description": "https://github.com/whiteflare/Unlit_WF_ShaderSuite",
-                    "dependencies": {},
-                    "author": {
-                        "name": "whiteflare",
-                        "email": "",
-                        "url": "https://github.com/whiteflare"
-                    },
-                    "hideInEditor": true,
-                    "url": "http://surumeika1987.xyz/download?id=com.github.whiteflare.shader.core&v=2022.9.23",
-                    "repo": "http://surumeika1987.xyz/repo"
-                },
-                "2022.10.22": {
-                    "name": "com.github.whiteflare.shader.core",
-                    "displayName": "Unlit WF ShaderSuite Core",
-                    "version": "2022.10.22",
-                    "unity": "2019.4",
-                    "description": "https://github.com/whiteflare/Unlit_WF_ShaderSuite",
-                    "dependencies": {},
-                    "author": {
-                        "name": "whiteflare",
-                        "email": "",
-                        "url": "https://github.com/whiteflare"
-                    },
-                    "hideInEditor": true,
-                    "url": "http://surumeika1987.xyz/download?id=com.github.whiteflare.shader.core&v=2022.10.22",
-                    "repo": "http://surumeika1987.xyz/repo"
-                }
-            }
-        },
         "ooo.sunao.shader": {
             "versions": {
                 "1.6.2": {

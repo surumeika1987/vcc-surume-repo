@@ -13,7 +13,6 @@ Or `Open Setting -> Packages -> Add Repository` in the VCC window and add `http:
 
 | Name | Latest version | Link | Original vpm package |
 | ------------ | ------------- | --- | --- |
-| Unlit_WF_ShaderSuite | 2022.9.23 | [github](https://github.com/whiteflare/Unlit_WF_ShaderSuite/releases) | NO |
 | Sunao Shader | 1.6.2 | [booth](https://booth.pm/ja/items/1723985) | NO |
 | PoiyomiToonShader | 8.1.162 | [github](https://github.com/poiyomi/PoiyomiToonShader) | NO |
 
